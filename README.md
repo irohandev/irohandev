@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rohan Dev</h1>
-<h3 align="center">A passionate for Python & Web Development</h3>
+<h1 align="center">Hello 👋, I'm Rohan Dev</h1>
+<h3 align="center">I am passionate for Python & Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irohandev&label=Profile%20views&color=0e75b6&style=flat" alt="irohandev" /> </p>
 
