@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Web technologies**
 
-- Portfolio [https://rds-portfolio.netlify.app/](https://rds-portfolio.netlify.app/)
-
 - 💬 Ask me about **Python, JavaScript, React JS**
 
 - 📫 How to reach me **rohansingh.rs608@gmail.com**
