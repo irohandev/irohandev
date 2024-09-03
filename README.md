@@ -54,7 +54,6 @@
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irohandev&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=irohandev&theme=radical" alt="GitHub Streak" width="450"/>
 </p>
 
