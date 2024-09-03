@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Cool GIF"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Cool GIF" width="400"/>
 </p>
 
 - 🌱 I’m expanding my knowledge in **Web technologies**
@@ -22,8 +22,8 @@
   <a href="https://twitter.com/itsrohandev_" target="blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
   <a href="https://linkedin.com/in/rohan-dev-singh-048511210" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://instagram.com/itsrohandev_" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://x.com/itsrohandev_" target="blank"><img src="https://img.icons8.com/windows/36/000000/x.png" alt="X" width="36"/></a>
-  <a href="https://www.hackerrank.com/rohansingh_rs608" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank"/></a>
+  <a href="https://x.com/itsrohandev_" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/x-logo.png" alt="X" width="48"/></a>
+  <a href="https://www.hackerrank.com/rohansingh_rs608" target="blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png" alt="HackerRank"/></a>
 </p>
 
 ---
@@ -46,7 +46,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/></a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/48/000000/sqlite.png" alt="SQLite"/></a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/48/ffffff/sqlite.png" alt="SQLite"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/tailwind_css.png" alt="Tailwind CSS"/></a>
 </p>
 
