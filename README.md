@@ -1,31 +1,74 @@
-<h1 align="center">Hi 👋, I'm Rohan Dev</h1>
-<h3 align="center">A passionate for Python & Web Development</h3>
+<h1 align="center">Hey there, I'm Rohan Dev Singh 👋</h1>
+<h3 align="center">Crafting Solutions with Python & Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irohandev&label=Profile%20views&color=0e75b6&style=flat" alt="irohandev" /> </p>
-
-<p align="left"> <a href="https://twitter.com/itsrohandev_" target="blank"><img src="https://img.shields.io/twitter/follow/itsrohandev_?logo=twitter&style=for-the-badge" alt="itsrohandev_" /></a> </p>
-
-- 🔭 I’m currently working on **Object Detection Model using Python & AI-ML**
-
-- 🌱 I’m currently learning **Web technologies**
-
-- 💬 Ask me about **Python, JavaScript, React JS**
-
-- 📫 How to reach me **rohansingh.rs608@gmail.com**
-
-- ⚡ Fun fact **I speak fluent Sarcasm**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/itsrohandev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsrohandev_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohan-dev-singh-048511210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohan-dev-singh-048511210/" height="30" width="40" /></a>
-<a href="https://instagram.com/itsrohandev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsrohandev_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rohansingh_rs608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rohansingh_rs608" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=irohandev&label=Profile%20Views&color=brightgreen&style=flat-square" alt="irohandev" />
+  <img src="https://img.shields.io/twitter/follow/itsrohandev_?logo=twitter&style=flat-square" alt="itsrohandev_" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.gif" alt="Coding GIF" width="300"/>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irohandev&show_icons=true&locale=en&layout=compact" alt="irohandev" /></p>
+- 🌱 I’m expanding my knowledge in **Web technologies**
+- 💬 Feel free to ask me about **Python, JavaScript, Web Devlopement**
+- 📫 Reach out to me at **rohansingh.rs608@gmail.com**
+- ⚡ Fun fact: **I’m fluent in Sarcasm!**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irohandev&" alt="irohandev" /></p>
+---
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://twitter.com/itsrohandev_" target="blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/rohan-dev-singh-048511210" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/itsrohandev_" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://x.com/itsrohandev_" target="blank"><img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?t=st=1725336400~exp=1725340000~hmac=636b3b7633201385a764659de72ec713dff40fb45486f83e524f3a05f6df22a4&w=740" alt="X" width="42" height="42"/></a>
+  <a href="https://www.hackerrank.com/rohansingh_rs608" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank"/></a>
+</p>
+
+---
+
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/figma.png" alt="Figma"/></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS"/></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/></a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/48/000000/sqlite.png" alt="SQLite"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS"/></a>
+</p>
+
+---
+
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irohandev&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irohandev&theme=radical" alt="GitHub Streak" width="450"/>
+</p>
+
+<h3 align="center">Top Languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irohandev&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+</p>
+
+<h3 align="center">Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+<h3 align="center">GitHub Activity Graph</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=irohandev&theme=github" alt="GitHub Activity Graph"/>
+</p>
