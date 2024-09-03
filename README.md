@@ -19,10 +19,9 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://twitter.com/itsrohandev_" target="blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://x.com/itsrohandev_" target="blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
   <a href="https://linkedin.com/in/rohan-dev-singh-048511210" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://instagram.com/itsrohandev_" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://x.com/itsrohandev_" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/x-logo.png" alt="X" width="48"/></a>
   <a href="https://www.hackerrank.com/rohansingh_rs608" target="blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png" alt="HackerRank"/></a>
 </p>
 
@@ -30,37 +29,44 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/figma.png" alt="Figma"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/></a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/48/ffffff/sqlite.png" alt="SQLite"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/tailwind_css.png" alt="Tailwind CSS"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="48" height="48"/></a>
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="48" height="48"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/></a>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="48" height="48"/></a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="48" height="48"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/tailwind_css.png" alt="Tailwind CSS" width="48" height="48"/></a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" width="48" height="48"/></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="48" height="48"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="48" height="48"/></a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="48" height="48"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="48" height="48"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/figma.png" alt="Figma" width="48" height="48"/></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="48" height="48"/></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" width="48" height="48"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/></a>
+  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/sublime-text.png" alt="Sublime Text" width="48" height="48"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="48" height="48"/></a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="48" height="48"/></a>
 </p>
+
 
 ---
 
 <h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irohandev&theme=radical" alt="GitHub Streak" width="450"/>
-</p>
 
-<h3 align="center">Top Languages</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irohandev&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=irohandev&theme=radical" alt="GitHub Streak" width="450"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irohandev&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">Contribution Snake</h3>
 <p align="center">
