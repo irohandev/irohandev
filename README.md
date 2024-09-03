@@ -1,8 +1,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/diwakar1593/diwakar1593/main/header_.png" alt="Banner Image" width="100%"/>
 </p>
-<h1 align="center">Hey there, I'm Rohan Dev Singh 👋</h1>
-<h3 align="center">Crafting Solutions with Python & Web Development</h3>
+<!-- Main Heading -->
+<h1 align="center" style="font-family: 'Voodoo Coding', monospace; color: #000000; background: #FFFFFF; padding: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); font-size: 36px;">
+  Hey there, I'm Rohan Dev Singh
+</h1>
+<h3 align="center" style="font-family: 'Voodoo Coding', monospace; color: #FFFFFF; background: #000000; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); font-size: 14x;">
+  Crafting Solutions with Python & Web Development
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=irohandev&label=Profile%20Views&color=brightgreen&style=flat-square" alt="irohandev" />
