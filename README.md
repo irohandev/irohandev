@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Cool GIF" width="500"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Cool GIF" width="450"/>
 </p>
 
 - 🌱 I’m expanding my knowledge in **Web technologies**
@@ -55,6 +55,12 @@
 
 ---
 
+<h3 align="center">Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+---
 <h3 align="center">GitHub Stats</h3>
 
 <table align="center">
@@ -67,8 +73,3 @@
     </td>
   </tr>
 </table>
-
-<h3 align="center">Contribution Snake</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
