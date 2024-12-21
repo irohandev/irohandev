@@ -2,27 +2,38 @@
 <h3 align="center">A developer who codes with passion, creating solutions one line at a time! 💻🔥</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=irohandev&label=Profile%20Views&color=brightgreen&style=flat-square" alt="irohandev" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=irohandev&label=Profile%20Views&color=brightgreen&style=for-the-badge" 
+    alt="irohandev" 
+    style="border-radius: 5px;"/>
 </p>
 
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div>
+    <ul style="list-style: none; padding: 0;">
+      <li>🖥 <strong>MERN Developer</strong> | 🌐 <strong>Open Source Contributor</strong></li>
+      <li>📚 Learning about <strong>Web3</strong> and working on <strong>personal projects</strong> 🚀</li>
+      <li>📫 Reach out to me at: <strong>rohansingh.rs608@gmail.com</strong></li>
+      <li>🔗 Explore my latest project: <a href="https://vrplaced.ai" target="_blank"><strong>vrplaced.ai</strong></a></li>
+    </ul>
+  </div>
+  <img 
+    src="https://octodex.github.com/images/daftpunktocat-guy.gif" 
+    alt="irohandev" 
+    style="border-radius: 10px; width: 140px; height: auto;"/>
+</div>
+
+
 ---
-
-- 🖥️ **MERN Developer** | 🌐 **Open Source Contributor**
-- 📚 Learning about **Web3** and working on **personal projects** 🚀
-- 📫 Reach out to me at: **rohansingh.rs608@gmail.com**
-- 🔗 Explore my latest project: [**vrplaced.ai**](https://vrplaced.ai)
-
----
-
 <h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://x.com/itsrohandev_" target="blank">
+<p align="center" style="margin: 10px 0;">
+  <a href="https://x.com/irohandev" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://linkedin.com/in/rohan-dev-singh-048511210" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/itsrohandev_" target="blank">
+  <a href="https://instagram.com/irohandev" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.hackerrank.com/rohansingh_rs608" target="blank">
