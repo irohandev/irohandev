@@ -5,7 +5,7 @@
   <img 
     src="https://komarev.com/ghpvc/?username=irohandev&label=Profile%20Views&color=brightgreen&style=for-the-badge" 
     alt="irohandev" 
-    style="border-radius: 5px;"/>
+    style="border-radius: 15px;"/>
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
