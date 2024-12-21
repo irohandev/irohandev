@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Rohan Dev! 👋</h1>
 <h3 align="center">A developer who codes with passion, creating solutions one line at a time! 💻🔥</h3>
 
-<p>
+<p align ="center">
   <img 
     src="https://komarev.com/ghpvc/?username=irohandev&label=Profile%20Views&color=brightgreen&style=for-the-badge" 
     alt="irohandev" 
