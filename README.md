@@ -17,10 +17,6 @@
       <li>🔗 Explore my latest project: <a href="https://vrplaced.ai" target="_blank"><strong>vrplaced.ai</strong></a></li>
     </ul>
   </div>
-  <img 
-    src="https://octodex.github.com/images/daftpunktocat-guy.gif" 
-    alt="irohandev" 
-    style="border-radius: 10px; width: 140px; height: auto;"/>
 </div>
 
 
