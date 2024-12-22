@@ -35,7 +35,7 @@
   <a href="https://www.hackerrank.com/rohansingh_rs608" target="blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank"/>
   </a>
-  <a href="" target="blank">
+  <a href="https://discordapp.com/users/irohandev_"  target="blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
@@ -58,5 +58,18 @@
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=irohandev&theme=radical" alt="GitHub Streak" width="450"/>
     </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=irohandev&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irohandev&layout=donut&theme=radical" alt="Top Languages" width="450"/>
+      </a>
+    </td>
   </tr>
 </table>
+
+
+
