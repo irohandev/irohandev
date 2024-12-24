@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Rohan Dev! 👋</h1>
-<h3 align="center">A developer who codes with passion, creating solutions one line at a time! 💻🔥</h3>
+<h3 align="center">A developer who codes with passion, creates solutions! 💻🔥</h3>
 
 <p align ="center">
   <img 
