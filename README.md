@@ -12,9 +12,9 @@
   <div>
     <ul style="list-style: none; padding: 0;">
       <li>🖥 <strong>MERN Developer</strong> | 🌐 <strong>Open Source Contributor</strong></li>
-      <li>📚 Learning about <strong>Web3</strong> and working on <strong>personal projects</strong> 🚀</li>
+      <li>📚 Learning about <strong>Python - Backend</strong> and working on <strong>industry projects</strong> 🚀</li>
       <li>📫 Reach out to me at: <strong>rohansingh.rs608@gmail.com</strong></li>
-      <li>🔗 Explore my latest project: <a href="https://vrplaced.ai" target="_blank"><strong>vrplaced.ai</strong></a></li>
+      </li>
     </ul>
   </div>
 </div>
