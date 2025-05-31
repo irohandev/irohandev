@@ -11,7 +11,8 @@
 <div style="display: flex; justify-content: center; align-items: center;">
   <div>
     <ul style="list-style: none; padding: 0;">
-      <li>🖥 <strong>MERN Developer</strong> | 🌐 <strong>Open Source Contributor</strong></li>
+      <li>🖥 <strong>Fullstack {MERN, Nextjs, Python} Developer</strong> | 🌐 <strong>Contributed in a product based startup</strong></li>
+      <li>🚀 Currently working at a<strong> Fintech Startup as Fullstack Developer</strong></li>
       <li>📚 Learning about <strong>Python - Backend</strong> and working on <strong>industry projects</strong> 🚀</li>
       <li>📫 Reach out to me at: <strong>rohansingh.rs608@gmail.com</strong></li>
       </li>
