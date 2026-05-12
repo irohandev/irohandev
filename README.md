@@ -69,10 +69,7 @@ Building and maintaining fintech product applications with ownership of frontend
 Worked on responsive frontend interfaces, reusable UI components, and modern React-based application development.
 
 </div>
-
----
-
-<h3 align="center">GitHub Stats</h3>
+<!-- <h3 align="center">GitHub Stats</h3> -->
 
 <!-- <table align="center">
   <tr>
@@ -93,8 +90,6 @@ Worked on responsive frontend interfaces, reusable UI components, and modern Rea
     </td>
   </tr>
 </table> -->
-
----
 
 <!-- <h3 align="center">Top Languages</h3>
 
