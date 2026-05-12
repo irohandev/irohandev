@@ -8,7 +8,7 @@
     style="border-radius: 15px;"/>
 </p>
 
-<div align="center">
+<div align="left">
 
 💻 Frontend Developer specializing in **React.js, Next.js & TypeScript**  
 🚀 Currently working at a **Fintech Product-Based Startup** as a **Software Developer**  
@@ -60,7 +60,7 @@
 
 <h3 align="center">Experience</h3>
 
-<div align="center">
+<div align="left">
 
 🏢 **Software Developer @ QuantumCona**  
 Building and maintaining fintech product applications with ownership of frontend modules, scalable UI architecture, API integrations, and performance optimization.
@@ -74,7 +74,7 @@ Worked on responsive frontend interfaces, reusable UI components, and modern Rea
 
 <h3 align="center">GitHub Stats</h3>
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td>
       <img 
@@ -92,18 +92,18 @@ Worked on responsive frontend interfaces, reusable UI components, and modern Rea
       />
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
-<h3 align="center">Top Languages</h3>
+<!-- <h3 align="center">Top Languages</h3>
 
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=irohandev&layout=compact&theme=radical" 
     alt="Top Languages"
   />
-</p>
+</p> -->
 
 ---
 
